@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: rgb(238, 236, 236);
+    font-family: "Yusei Magic";
+}
+
+.titulo
+{
+    text-align: center;
+    background-color: white;
+}
+
+.post
+{
+    background-color: white;
+    width: 800px;
+    height: 600px !important;
+    margin: auto;
+    margin-bottom: 38px;
+}
+
+.nombre
+{
+    float:left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.fecha
+{
+    color: rgb(218, 218, 218);
+    padding-bottom: 10px;
+    float:right;
+}
+
+.comentario
+{
+    margin: auto;
+    background-color: white;
+    width: 800px;
+    height: 50px;
+    margin-bottom: 100px;
+}
+
+.comentario_comida
+{
+    margin: auto;
+    background-color: white;
+    width: 800px;
+    height: 50px;
+    margin-top: -35px;
+    margin-bottom: 20px;
+}
+
+#imagen_comida
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
